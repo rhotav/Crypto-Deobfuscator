@@ -1,0 +1,11 @@
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\bin\Debug\Crypto Deobfuscator.exe.config
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\bin\Debug\Crypto Deobfuscator.exe
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\bin\Debug\Crypto Deobfuscator.pdb
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\obj\Debug\Crypto Deobfuscator.csprojAssemblyReference.cache
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\obj\Debug\Crypto_Deobfuscator.Properties.Resources.resources
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\obj\Debug\Crypto Deobfuscator.csproj.GenerateResource.cache
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\obj\Debug\Crypto Deobfuscator.exe
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\obj\Debug\Crypto Deobfuscator.pdb
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\bin\Debug\dnlib.dll
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\obj\Debug\Crypto_Deobfuscator.MainPage.resources
+C:\Users\root\source\repos\Crypto Deobfuscator\Crypto Deobfuscator\obj\Debug\Crypto Deobfuscator.csproj.CopyComplete
